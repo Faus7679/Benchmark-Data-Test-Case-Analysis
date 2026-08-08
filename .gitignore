@@ -216,3 +216,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+traffic_time_series.png
+traffic_distributions.png
